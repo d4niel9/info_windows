@@ -10,5 +10,5 @@
     $ cd automation-console
 
 3. Run the script
-    $ python3 script.py
+    $ python3 main.py
 ```
